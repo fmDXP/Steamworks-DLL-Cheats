@@ -1,5 +1,5 @@
-# Steamworks DLL Cheats
-A set of Steamworks Cheats in DLL format for when you're bored playing the game!
+# Smithworks DLL Cheats
+A set of Smithworks Cheats in DLL format for when you're bored playing the game!
 
 ## Disclaimer:
 
